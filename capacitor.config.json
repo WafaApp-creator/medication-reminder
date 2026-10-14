@@ -1,0 +1,6 @@
+{
+  "appId": "com.wafaapp.medreminder",
+  "appName": "مذكّر الأدوية",
+  "webDir": "www",
+  "plugins": { "LocalNotifications": { "iconColor": "#0E7C86" } }
+}
